@@ -211,7 +211,7 @@ ul p{
     background-color: #0f1111;
     color:white;
    text-align: center;
-    height:80px;
+    height:180px;
 }
 .pages{
     font-size: 0.75rem;
@@ -281,5 +281,6 @@ ul p{
         gap: 10px;              
     }
 }
+
 
 
